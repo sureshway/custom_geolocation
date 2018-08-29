@@ -1,0 +1,7 @@
+*.png
+*.log
+src/*.ts
+!src/*.d.ts
+ISSUE_TEMPLATE.md
+
+

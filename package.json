@@ -1,0 +1,43 @@
+{
+  "name": "cordova-background-geolocation",
+  "version": "2.8.1",
+  "description": "The most sophisticated cross-platform background location tracking & geofencing plugin with battery-conscious motion-detection",
+  "cordova": {
+    "id": "cordova-background-geolocation",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/transistorsoft/cordova-background-geolocation"
+  },
+  "keywords": [
+    "gps",
+    "location",
+    "tracking",
+    "geolocation",
+    "geofence",
+    "geofencing",
+    "background",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova",
+    "phonegap"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Chris Scott, Transistor Software",
+  "license": "Commercial (http://www.binpress.com/license/view/l/7bbff78c0e0f33e865b4f83333a54bdf)",
+  "bugs": {
+    "url": "https://github.com/transistorsoft/cordova-background-geolocation/issues"
+  },
+  "homepage": "https://github.com/transistorsoft/cordova-background-geolocation#README"
+}
